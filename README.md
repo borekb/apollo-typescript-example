@@ -4,6 +4,8 @@ Minimal example showcasing type-safe access to authenticated GitHub GraphQL API 
 
 ![image](https://user-images.githubusercontent.com/101152/32142758-e6765d2a-bc9d-11e7-8edb-bae502db2da2.png)
 
+[Post on Medium](https://medium.com/@borekb/apollo-client-typescript-example-99febdaa18fa).
+
 ## How to run
 
 1. `yarn`
